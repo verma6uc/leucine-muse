@@ -50,7 +50,5 @@ Desktop.ini
 *~.nib
 local.properties
 
-# Configuration files with sensitive information
-#src/main/java/com/leucine/config/AIConfig.java
-
-
+# Environment variables
+.env

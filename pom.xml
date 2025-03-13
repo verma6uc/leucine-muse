@@ -57,6 +57,13 @@
             <artifactId>logback-core</artifactId>
             <version>1.4.11</version>
         </dependency>
+        
+        <!-- dotenv for loading environment variables from .env files -->
+        <dependency>
+            <groupId>io.github.cdimascio</groupId>
+            <artifactId>dotenv-java</artifactId>
+            <version>2.3.2</version>
+        </dependency>
     </dependencies>
 
     <build>
