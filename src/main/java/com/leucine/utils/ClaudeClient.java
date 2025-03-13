@@ -1,6 +1,7 @@
-package main.java.com.leucine.utils;
+package com.leucine.utils;
 
 import com.google.gson.annotations.SerializedName;
+import com.leucine.config.AIConfig;
 import com.google.gson.Gson;
 import okhttp3.*;
 
