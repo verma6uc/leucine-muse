@@ -48,4 +48,9 @@ Desktop.ini
 *.bak
 *.swp
 *~.nib
-local.propertiessrc/main/java/com/leucine/config/AIConfig.java
+local.properties
+
+# Configuration files with sensitive information
+#src/main/java/com/leucine/config/AIConfig.java
+
+
